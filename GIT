@@ -1,0 +1,8 @@
+GIT
+
+Git is a free and open source version control software that is widely used in software development. 
+Git allows multiple developers to work on one project by working on their own parts of the project while maintaining a order. GitHub.com is a website that is commonly used that incorporates Git. In GitHub, you can create repositories, which are projects where team member can pull and push code from. 
+
+To get started with Git, you can download it here: https://git-scm.com/downloads 
+
+Here is useful website to help you get started: https://help.github.com/articles/set-up-git/
